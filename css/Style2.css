@@ -1,0 +1,35 @@
+nav{ 
+    text-align: right;
+    height: 60px;
+    margin-top: -45px;
+}
+nav a{
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#nom
+{  margin-left: 60px;font-family: 'Times New Roman', Times, serif;font-weight: bold;
+    font-size: 30px;margin-top: -32px; color: #fff;
+}
+#img1{height: 20px;
+width: 20px; 
+margin-top: 40px;
+margin-left: 30px;}
+#nom1{ 
+    margin-left: 210px;
+    margin-top: -60px;
+    font-size: 25px;color: #fff;
+}
+body{ background-repeat: no-repeat;background-size: cover;}
+#id2{color: #fff;}
+.id111{margin-left: 20px; color: #fff;font-weight: bold;margin-top: 40px    ;}
+.id222{margin-left: 20px;color: #fff;}
+.id333{margin-left: 20px;color: #fff;}
+#img11{margin-left: 500px;margin-top: -110px; border-radius: 50%;}
+#img12{margin-left: 500px;margin-top: -118px;border-radius: 50%;}

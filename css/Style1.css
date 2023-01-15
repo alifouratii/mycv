@@ -1,0 +1,56 @@
+nav{ 
+    text-align: right;
+    height: 60px;
+    margin-top: -45px;
+}
+nav a{
+    width: 100px;
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#nom
+{  margin-left: 60px;font-family: 'Times New Roman', Times, serif;font-weight: bold;
+    font-size: 30px;margin-top: -32px;
+}
+#img1{height: 20px;
+width: 20px; 
+margin-top: 40px;
+margin-left: 30px;}
+#nom1{ 
+    margin-left: 210px;
+    margin-top: -60px;
+    font-size: 25px;
+}
+main{margin-top: 40px;
+    height: 100vh;
+  
+  background-color: rgb(221, 212, 200);
+  width: 700px;
+  background-repeat: no-repeat;
+}
+section{background-color: rgb(238, 238, 232); box-shadow: 20px;
+height: 540px;
+width: 460px;
+margin-top: -550px;
+margin-left: 300px;box-shadow: 0.16px 0.16px;}
+#img2{height: 200px;margin-left: 130px;margin-top: 50px;border-radius: 70%;}
+#Ali{margin-left: 210px;font-family: 'Times New Roman', Times, serif; font-weight: bold;font-size: 30px;}
+#Fourati{margin-left: 183px;font-family: 'Times New Roman', Times, serif; font-weight: bold;font-size: 30px;margin-top: -20px;}
+#hr{width: 50px;margin-left: 210px;}
+footer{ background-color: rgb(221, 212, 200);height: 70px;width: 700px;
+margin-top: -69px;}
+#fb{height: 30px;margin-left: 130px;
+margin-top: 60px;}
+#insta{height: 30px;margin-left: 20px;margin-top: 58px;}
+#link{height: 30px;margin-left: 20px;margin-top: 58px;}
+#git{height: 30px;margin-left: 20px;margin-top: 58px;}
+aside{height: 500px;width: 260px;margin-left: 820px;margin-top: -470px;}
+#h1{font-family: 'Times New Roman', Times, serif; 
+    font-size: 50px; margin-left: 30px;}
+    #h2{margin-left: 70px;}
+    #p11{text-align: justify ;margin-top: 70px;line-height: 30px;}

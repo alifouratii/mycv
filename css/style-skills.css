@@ -1,0 +1,94 @@
+nav{ 
+    text-align: right;
+    height: 60px;
+    margin-top: -45px;
+}
+nav a{
+    width: 100px;
+    color: rgb(9, 6, 6);
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#nom
+{  margin-left: 60px;font-family: 'Times New Roman', Times, serif;font-weight: bold;
+    font-size: 30px;margin-top: -32px;color: rgb(15, 15, 15);
+}
+#img1{height: 20px;
+    width: 20px; 
+    margin-top: 40px;
+    margin-left: 30px;}
+    #nom1{ color: rgb(7, 5, 5);
+        margin-left: 210px;
+        margin-top: -60px;
+        font-size: 25px;
+    }
+   
+
+    @property --p{
+        syntax: '<number>';
+        inherits: true;
+        initial-value: 0;
+      }
+      
+      .pie {
+        --p:20;
+        --b:22px;
+        --c:darkred;
+        --w:150px;
+        
+        width:var(--w);
+        aspect-ratio:1;
+        position:relative;
+        display:inline-grid;
+        margin:5px;
+        place-content:center;
+        font-size:25px;
+        font-weight:bold;
+        font-family:sans-serif;
+      }
+      .pie:before,
+      .pie:after {
+        content:"";
+        position:absolute;
+        border-radius:50%;
+      }
+      .pie:before {
+        inset:0;
+        background:
+          radial-gradient(farthest-side,var(--c) 98%,#0000) top/var(--b) var(--b) no-repeat,
+          conic-gradient(var(--c) calc(var(--p)*1%),#0000 0);
+        -webkit-mask:radial-gradient(farthest-side,#0000 calc(99% - var(--b)),#000 calc(100% - var(--b)));
+                mask:radial-gradient(farthest-side,#0000 calc(99% - var(--b)),#000 calc(100% - var(--b)));
+      }
+      .pie:after {
+        inset:calc(50% - var(--b)/2);
+        background:var(--c);
+        transform:rotate(calc(var(--p)*3.6deg)) translateY(calc(50% - var(--w)/2));
+      }
+      .animate {
+        animation:p 1s .5s both;
+      }
+ 
+    
+      @keyframes p {
+        from{--p:0}
+      }
+      
+    #h31{ margin-left: 40px ;}
+    main{margin-left: 23px;}
+    #p123{text-align: justify;margin-left: 20px;
+    font-size: 15px; line-height: 3em;}
+    #botoon1{
+        text-decoration: none;font-size: 20px;
+        margin-left: 60px;background-color: #fff;
+        box-shadow: 3px 3px; color: black;margin-top: 30px;
+    }
+    #botoon2{
+      text-decoration: none;font-size: 20px;
+      margin-left: 60px;background-color: #fff;
+      box-shadow: 3px 3px; color: black;margin-top: 30px;
+  }

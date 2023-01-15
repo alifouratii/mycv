@@ -1,0 +1,59 @@
+nav{ 
+    text-align: right;
+    height: 60px;
+    margin-top: -45px;
+}
+nav a{
+    width: 100px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#nom
+{  margin-left: 60px;font-family: 'Times New Roman', Times, serif;font-weight: bold;
+    font-size: 30px;margin-top: -32px;color: #fff;
+}
+#img1{height: 20px;
+    width: 20px; 
+    margin-top: 40px;
+    margin-left: 30px;}
+    #nom1{ color: #fff;
+        margin-left: 210px;
+        margin-top: -60px;
+        font-size: 25px;
+    }
+    body{ background-repeat: no-repeat;background-size: cover;}
+    #id2{color: #fff;}
+    #id1{margin-top: 40px;
+        height: 500px;margin-left: 30px;box-shadow: 2px 2px;
+      
+      background-color: rgb(254, 254, 226);
+      width: 400px;
+      background-repeat: no-repeat;
+    border-radius: 3%;}
+    #Mangero{height: 216px;margin-top: 33px;
+    margin-left: 10px;}
+    #p1{text-align: justify;font-family: 'Times New Roman', Times, serif;
+        margin-left: 20px;margin-right: 20px;}
+        #id23{margin-top: 40px;
+            height: 500px;margin-left: 490px;margin-top: -498px; box-shadow: 2px 2px;
+          
+          background-color: rgb(254, 254, 226);
+          width: 400px;
+          background-repeat: no-repeat;border-radius: 3%}
+          #prototype{height: 200px;margin-left: 99px;margin-top: 40px;}
+          #moteur{height: 200px;margin-left: 99px;margin-top: 40px;}
+    #asm{text-align: justify; margin-left: 20px;
+    margin-right: 20px;font-family: 'Times New Roman', Times, serif;}
+    #botoon1{
+        text-decoration: none;font-size: 20px;
+        margin-left: 60px;background-color: #fff;
+        box-shadow: 3px 3px; color: black;margin-top: 30px;
+    }
+    #botoon2{text-decoration: none;font-size: 20px;
+        margin-left: 60px;background-color: #fff;
+        box-shadow: 3px 3px; color: black;margin-top: 30px;}    
